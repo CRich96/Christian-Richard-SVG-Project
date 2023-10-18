@@ -71,7 +71,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ![](./logo.svg)
 
 ## Installation Process
-Clone the repository: [Christian-Richard-SVG-Project](https://github.com/CRich96/Christian-Richard-SVG-Project.gitsaaaaaaa/)
+1. Clone the repository: [Christian-Richard-SVG-Project](https://github.com/CRich96/Christian-Richard-SVG-Project.git/)
+
 2. Install the following: 
 - Node.JS [Version 18.18.0](https://nodejs.org/en/blog/release/v18.18.0/)
 - Jest [Version 29.4.3](https://www.npmjs.com/package/jest)
