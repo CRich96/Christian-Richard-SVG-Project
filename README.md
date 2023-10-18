@@ -68,7 +68,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ### Figure 2. Jest Testing "npm test"
 ![](./Images/jest-test.png)
 ### Figure 3. Generated "logo.svg" file
-![](./logo.svg)
+![](./Images/logo.svg)
 
 ## Installation Process
 1. Clone the repository: [Christian-Richard-SVG-Project](https://github.com/CRich96/Christian-Richard-SVG-Project.git/)
